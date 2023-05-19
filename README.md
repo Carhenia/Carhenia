@@ -9,8 +9,8 @@
 
 </h1>
 
-Hi there! I'm a cyber security student from Australia with a passion for Minecraft modding. Since 2015,  I've been creating and modifying multiple mods, building custom modpacks, and hosting public servers for fellow Minecraft enthusiasts. My interest in cyber security also drives me to understand how these mods interact with the game and the risks they may pose.
+Hi there! I'm a cyber security student from Australia with a passion for Minecraft modding. Since 2015,  I've been building custom modpacks and hosting public servers for fellow Minecraft enthusiasts. This hobby peaked my interest in cyber security espeticially in relation to hosting a public platform for gamers to enjoy, driving me to understand how these mods interact with the game and the risks they may pose.
 
 In addition to my Minecraft projects, I'm always on the lookout for opportunities to expand my learning and practice my skills. That's why I'm an avid user of Codecademy and TryHackMe, where I dive deeper into coding, security, and other tech-related areas.
 
-Feel free to check out some of my modpacks on my Github profile, and don't hesitate to reach out if you have any questions or feedback. 
+Feel free to check out some of my modpacks on my Github profile, and don't hesitate to reach out if you have any questions or feedback!
